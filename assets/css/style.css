@@ -504,7 +504,7 @@ section {
 --------------------------------------------------------------*/
 .portfolio .portfolio-item {
   margin-bottom: 30px;
-  padding: 300;
+  padding-bottom: -300px;
 
 }
 
