@@ -1076,7 +1076,6 @@ section {
 }
 
 #copy h1 {
-  height: 200px;
   font-size: 18px;
   font-weight: 400;
   background: #000000;
@@ -1086,7 +1085,7 @@ section {
 
 #copy  {
   text-align: center;
-  height: 200px;
+  height: 40px;
   background: #000000;
   color: #ffffff;
   text-align: center;
