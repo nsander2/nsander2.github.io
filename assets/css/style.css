@@ -1084,6 +1084,10 @@ section {
   text-align: center;
 }
 
-#copy .copyright {
+#copy  {
+  text-align: center;
+  height: 200px;
+  background: #000000;
+  color: #ffffff;
   text-align: center;
 }
