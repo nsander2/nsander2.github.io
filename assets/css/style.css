@@ -1041,10 +1041,12 @@ section {
   }
 }
 
-.copy h1 {
+.copy {
   background-color: #000000;
+}
+.copy  h1{
   font-size: 14px;
-
+  font-weight: 300;
 }
 
 /*--------------------------------------------------------------
