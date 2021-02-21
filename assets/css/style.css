@@ -1050,6 +1050,7 @@ section {
   font-size: 14px;
   left: 0;
   bottom: 0;
+  width: auto;
   height: 50px;
   z-index: 9999;
   background: #040b14;
