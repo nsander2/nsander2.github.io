@@ -1047,15 +1047,15 @@ section {
 
 #test .copy{
   background-color: #000000;
-  height: 40px;
+  height: 80px;
   font-size: 16px;
   font-weight: 600;
   font-color : #ffffff;
   text-align: center;
 }
 #test .copy a {
-  font-size: 20px;
-  font-weight: 600;
+  font-size: 15px;
+  font-weight: 400;
   font-color : #ffffff;
   background-color: #000000;
   color: #ffffff;
