@@ -1078,15 +1078,11 @@ section {
 #copy h1 {
   font-size: 14px;
   font-weight: 350;
-  padding: 5px;
   color: #ffffff;
-  padding-top: 5px;
 }
 
 #copy  {
   text-align: center;
-  padding-top: 5px;
-  padding-bottom: 5px;
   background: #000000;
   text-align: center;
 }
