@@ -1078,6 +1078,7 @@ section {
 #copy h1 {
   font-size: 14px;
   font-weight: 350;
+  height: 10px;
   padding: 5px;
   color: #ffffff;
   padding-top: 5px;
