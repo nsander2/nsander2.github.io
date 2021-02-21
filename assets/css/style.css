@@ -1080,5 +1080,6 @@ section {
   height: 20px;
   font-size: 12px;
   font-weight: 200;
-  color: #000000;
+  background: #000000;
+  color: #ffffff;
 }
