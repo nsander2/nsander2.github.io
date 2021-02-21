@@ -1056,3 +1056,10 @@ section {
   color: #000000;
   text-align: center;
 }
+
+#footer p {
+  font-color: #ffffff;
+  text-align: center;
+  font-size: 14px;
+  font-weight: 300;
+}
