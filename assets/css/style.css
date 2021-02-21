@@ -1047,7 +1047,7 @@ section {
 
 #test .copy{
   background-color: #000000;
-  height: 30px;
+  height: 20px;
   font-size: 16px;
   font-weight: 600;
   font-color : #ffffff;
@@ -1056,7 +1056,7 @@ section {
 #test .copy h1 {
   font-size: 14px;
   font-weight: 600;
-  font-color : #ffffff;
+  font-color : white;
 }
 
 /*--------------------------------------------------------------
