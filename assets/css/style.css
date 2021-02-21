@@ -1047,11 +1047,11 @@ section {
 
 #test {
   background-color: #000000;
-  height: 800px;
+  height: 80px;
   text-align: center;
 }
 
-#test .copy a {
+#test  a {
   font-size: 15px;
   font-weight: 200;
   font-color : #ffffff;
