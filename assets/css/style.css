@@ -810,19 +810,19 @@ section {
 # Contact
 --------------------------------------------------------------*/
 .contact {
-  padding-bottom: 130px;
+  padding-bottom: 30px;
 }
 
 .contact .info {
   padding: 30px;
-  background: #fff;
+  background: #000;
   width: 100%;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
 }
 
 .contact .info i {
   font-size: 20px;
-  color: #149ddd;
+  color: #ffffff;
   float: left;
   width: 44px;
   height: 44px;
@@ -1045,13 +1045,13 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  padding: 50px;
+  padding: 20px;
   color: #f4f6fd;
   font-size: 14px;
   left: 0;
   bottom: 0;
   width: 400px;
-  height: 50px;
+  height: 20px;
   background: #040b14;
 }
 
