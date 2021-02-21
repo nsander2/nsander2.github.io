@@ -1048,20 +1048,13 @@ section {
 #test .copy{
   background-color: #000000;
   height: 80px;
-  font-size: 14px;
-  font-weight: 300;
-  font-color : #ffffff;
   text-align: center;
-  font-size: 15px;
-  font-weight: 200;
-  font-color : #fffafa;
-  font-family: "Raleway", sans-serif;
 }
-}
+
 #test .copy a {
   font-size: 15px;
   font-weight: 200;
-  font-color : #fffafa;
+  font-color : #ffffff;
   font-family: "Raleway", sans-serif;
 }
 
