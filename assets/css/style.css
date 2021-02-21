@@ -1054,9 +1054,9 @@ section {
   text-align: center;
 }
 #test .copy a {
-  font-size: 150px;
+  font-size: 15px;
   font-weight: 200;
-  font-color : #FFFAFA;
+  font-color : #fffafa;
   font-family: "Raleway", sans-serif;
 }
 
