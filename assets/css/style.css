@@ -1082,6 +1082,7 @@ section {
 }
 
 #copy  {
+  height: 40px;
   background: #000000;
   text-align: center;
 }
