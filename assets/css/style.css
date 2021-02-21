@@ -1075,7 +1075,7 @@ section {
   }
 }
 
-#copy .h1{
+#copy h1 {
   padding: 20px;
   height: 30px;
   font-size: 14px;
