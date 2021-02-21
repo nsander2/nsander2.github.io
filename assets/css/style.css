@@ -1053,7 +1053,7 @@ section {
   font-color : #ffffff;
   text-align: center;
 }
-#test  a {
+#test .copy a {
   font-size: 20px;
   font-weight: 600;
   font-color : #ffffff;
