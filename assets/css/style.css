@@ -1056,8 +1056,9 @@ section {
 #test .copy a {
   font-size: 120px;
   font-weight: 600;
-  font-color : white;
+  font-color : #ffffff;
   background-color: #000000;
+  color: #ffffff;
 }
 
 /*--------------------------------------------------------------
