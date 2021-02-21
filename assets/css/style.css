@@ -1077,9 +1077,9 @@ section {
 
 #copy {
   padding: 20px;
-  height: 100px;
-  font-size: 12px;
-  font-weight: 200;
+  height: 30px;
+  font-size: 14px;
+  font-weight: 400;
   background: #000000;
   color: #ffffff;
   text-align: center;
