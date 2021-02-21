@@ -1053,10 +1053,11 @@ section {
   font-color : #ffffff;
   text-align: center;
 }
-#test .copy p {
-  font-size: 100px;
+#test .copy a {
+  font-size: 120px;
   font-weight: 600;
   font-color : white;
+  background-color: #000000;
 }
 
 /*--------------------------------------------------------------
