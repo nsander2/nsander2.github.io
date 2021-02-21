@@ -1045,7 +1045,7 @@ section {
 # test
 --------------------------------------------------------------*/
 
-#test .copy{
+#test {
   background-color: #000000;
   height: 800px;
   text-align: center;
