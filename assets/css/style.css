@@ -1043,10 +1043,13 @@ section {
 
 .copy {
   background-color: #000000;
+  height: 20px;
+  padding: 20px;
 }
 .copy  h1{
   font-size: 14px;
-  font-weight: 300;
+  font-weight: 600;
+  font-color : #ffffff;
 }
 
 /*--------------------------------------------------------------
