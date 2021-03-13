@@ -590,8 +590,8 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-links {
-  opacity: 1;
-  left: 10px;
+  opacity: .5;
+  left: 0;
   right: 0;
   bottom: -60px;
   z-index: 3;
