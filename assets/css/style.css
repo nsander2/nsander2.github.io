@@ -590,7 +590,7 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-links {
-  opacity: 1;
+  /*opacity: 1;
   left: 0;
   right: 0;
   bottom: -60px;
@@ -598,16 +598,16 @@ section {
   position: absolute;
   transition: all ease-in-out 0.3s;
   display: flex;
-  justify-content: center;
+  justify-content: center;*/
 }
 
 .portfolio .portfolio-wrap .portfolio-links a {
   color: #fff;
   font-size: 24px;
-  /*text-align: center;
+  text-align: center;
   background: rgba(20, 157, 221, 0.75);
   transition: 0.3s;
-  width: 50%;*/
+  width: 50%;
 }
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
