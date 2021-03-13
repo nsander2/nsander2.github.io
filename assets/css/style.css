@@ -574,6 +574,7 @@ section {
   position: relative;
   overflow: hidden;
   z-index: 1;
+  width: 100%;
 }
 
 .portfolio .portfolio-wrap::before {
@@ -587,6 +588,7 @@ section {
   transition: all ease-in-out 0.3s;
   z-index: 2;
   opacity: 0;
+  width: 100%;
 }
 
 .portfolio .portfolio-wrap .portfolio-links {
@@ -613,7 +615,6 @@ section {
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
   background: rgba(20, 157, 221, 0.95);
-  width: 100%;
 }
 
 .portfolio .portfolio-wrap .portfolio-links a + a {
