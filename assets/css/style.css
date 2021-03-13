@@ -614,10 +614,10 @@ section {
   background: rgba(20, 157, 221, 0.95);
 }
 
-/*.portfolio .portfolio-wrap .portfolio-links a + a {
+.portfolio .portfolio-wrap .portfolio-links a + a {
   border-left: 1px solid #37b3ed;
   width: 100%;
-}*/
+}
 
 .portfolio .portfolio-wrap:hover::before {
   top: 0;
@@ -625,6 +625,7 @@ section {
   right: 0;
   bottom: 0;
   opacity: 1;
+  width: 100%;
 }
 
 .portfolio .portfolio-wrap:hover .portfolio-links {
