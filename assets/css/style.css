@@ -640,7 +640,7 @@ section {
 # Portfolio Details
 --------------------------------------------------------------*/
 .portfolio-details {
-  padding-top: 20px;
+  padding-top: 5px;
 }
 
 .portfolio-details .portfolio-details-slider img {
@@ -649,7 +649,7 @@ section {
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination {
-  margin-top: 20px;
+  margin-top: 10px;
   position: relative;
   margin-bottom: 100px;
 }
