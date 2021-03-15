@@ -386,11 +386,11 @@ section {
 --------------------------------------------------------------*/
 
 .facts {
-  padding-bottom: 30px;
+  padding-bottom: 20px;
 }
 
 .facts .count-box {
-  padding: 30px;
+  padding: 20px;
   width: 100%;
 }
 
@@ -413,7 +413,7 @@ section {
 
 .facts .count-box p {
   padding: 15px 0 0 0;
-  margin: 0 0 0 60px;
+  margin: 0 0 0 50px;
   font-family: "Raleway", sans-serif;
   font-size: 14px;
   color: #122f57;
